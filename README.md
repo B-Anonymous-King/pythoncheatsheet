@@ -1,6 +1,6 @@
 # Python cheat sheet
 This python cheat was created by Dave Child.
- - source: Cheatography.com
+ - source: [Cheatography](https://cheatography.com/davechild/cheat-sheets/python/)
  - Useful for quick review of key points in python such as
    <details>
     <summary>Topics</summary>
